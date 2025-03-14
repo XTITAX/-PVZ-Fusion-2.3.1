@@ -1,3 +1,5 @@
+# Инструкция по установки модов на PVZ Fusion 2.3.1
+
 ## Установка
 
 Запустите MelonLoader.Installer.exe, нажмите кнопку AddGameManually, найдите exe файл pvz fusion 2.3.1
