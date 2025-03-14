@@ -13,4 +13,4 @@
 
 ## Примечание
 
-Если у вас ещё нету pvz fusion 2.3.1, то эту игру можно скачать по ссылке https://t.me/mirozvorecfusion/54
+Если у вас ещё нету PVZ Fusion 2.3.1, то эту игру можно скачать по ссылке https://t.me/mirozvorecfusion/54
