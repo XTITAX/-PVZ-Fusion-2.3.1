@@ -8,8 +8,8 @@
 
 ## Запуск
 
-# Запустите игру!
+Запустите файл PlantsVsZombiesRH.exe в папке с игрой!
 
 ## Примечание
 
-# Если у вас ещё нету pvz fusion 2.3.1, то эту игру можно скачать по ссылке https://t.me/mirozvorecfusion/54
+Если у вас ещё нету pvz fusion 2.3.1, то эту игру можно скачать по ссылке https://t.me/mirozvorecfusion/54
