@@ -6,8 +6,7 @@
 (Скорее всего, будет называться PlantsVsZombiesRH.exe и лежать в папке с модом),
 два раза кликните по нему и выберите его в списке нажмите кнопку Install.
 Скачайте архив https://drive.google.com/file/d/108Ysr_0t84KRkZYQG0eyC-9a0a1a6xie/view?usp=sharing и положите в эту папку.
-Распакуйте архив PvZ_Fusion_Translator.zip обязательно в ту же папку, откройте папку с игрой, а потом папку Mods и переместите туда всё.
-(За исключением README.md и MelonLoader.Installer.exe)
+Распакуйте архив PvZ_Fusion_Translator.zip обязательно в папку ModsPVZF, откройте папку с игрой, а потом папку Mods и переместите туда всё из папки ModsPVZF.
 
 ## Запуск
 
